@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Barklarm was designed from the ground up to be easily installed and
-        used to get you up and running quickly.
+        used to get you up and running with your favourite CI system.
       </>
     ),
   },
@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_tree.svg').default,
     description: (
       <>
-        Barklarm lets you focus on your work, and we will let you know if anything important happens.
+        Barklarm lets you focus on your day to day work, and we will let you know if anything important happens.
       </>
     ),
   },
