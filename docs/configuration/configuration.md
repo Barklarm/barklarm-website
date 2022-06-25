@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# Configuration Window
+# Configuration
 
 The configuration window can be open from the tray menu by cliking on the configure section of the menu.
 
