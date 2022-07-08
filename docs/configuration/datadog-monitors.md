@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Datadog Monitors
 
-![Github](./img/datadog.jpeg)
+![Datadog](./img/datadog.jpeg)
 
 the datadog configuration requires:
 - **Site (Mandatory)**: the datadog site your project resides on.
