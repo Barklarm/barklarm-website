@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![Github](./img/github.jpeg)
 
-the github configuration requires:
+The github configuration requires:
 - **Owner (Mandatory)**: github handle of the user or organization the project belongs to.
 - **Repo (Mandatory)**: name of the repository that the pipeline belongs to.
 - **Workflow Name (Mandatory)**: name of the pipeline file that is used to track the build.

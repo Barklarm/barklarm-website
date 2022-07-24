@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The configuration window can be open from the tray menu by cliking on the configure section of the menu.
 
-![configure window](./img/configure_window.jpeg)
+![Configure window](./img/configure_window.jpeg)
 
 As seen on the previous image its composed of the next sections:
 

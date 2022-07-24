@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Your desktop app for build radiation and more">
+      description="Your desktop app to Project build & monitoring radiation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Configuration Window
 
-This is the place to setup application configurations that can be founnd in the [configuration section](/docs/configuration).
+This is the place to set up application configurations that can be founnd in the [configuration section](/docs/configuration).
 
-![configuration window](./img/configuration_window.jpeg) 
+![Configuration window](./img/configuration_window.jpeg) 
 
 The sections it contains are: 
 - Projects: you can add/remove/modify observing capacities of your diferent runing projects.

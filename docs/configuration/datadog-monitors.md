@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ![Datadog](./img/datadog.jpeg)
 
-the datadog configuration requires:
+The datadog configuration requires:
 - **Site (Mandatory)**: the datadog site your project resides on.
 - **Monitor ID (Mandatory)**: number that identifies your monitor, can be found in the properties of your Monitor.
 - **API Key (Mandatory)**: [API Key](https://docs.datadoghq.com/account_management/api-app-keys/#api-keys) to access the datadog system.

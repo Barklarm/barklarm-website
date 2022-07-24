@@ -8,7 +8,7 @@ sidebar_position: 1
 
 The summary icon in the tray bar represents the global state of all the configured builds. The meaning of the icon can be found in the [legend section](#legend) of this page.
 
-![summary Icon](./img/summary_icon.jpeg) 
+![Summary Icon](./img/summary_icon.jpeg) 
 
 ## Menu
 
