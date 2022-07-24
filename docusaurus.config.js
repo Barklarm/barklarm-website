@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Barklarm',
-  tagline: 'displays the status of projects as an item in the tray menu bar',
+  tagline: 'Display the status of your projects build & monitoring natively to your OS',
   url: 'https://barklarm.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
