@@ -126,7 +126,8 @@ const config = {
       algolia: {
         appId: '5OO1ZU522Y',
         apiKey: '1a657d79f462a65675d881b1cbf3a6d4',
-        indexName: 'barklarm',
+        indexName: 'barklarm'
+      }
     }),
 };
 
