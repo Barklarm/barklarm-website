@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kanekotic', // Usually your GitHub org/user name.
-  projectName: 'barklarm', // Usually your repo name.
+  projectName: 'barklarm-website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -76,7 +76,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/kanekotic/barklight',
+            href: 'https://github.com/kanekotic/barklarm',
             label: 'GitHub',
             position: 'right',
           },
