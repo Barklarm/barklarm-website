@@ -114,6 +114,14 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/kanekotic/barklarm',
               },
+              {
+                label: 'Privacy Policy',
+                to: '/privacy-policy',
+              },
+              {
+                label: 'Terms & Conditions',
+                to: '/terms-and-conditions',
+              },
             ],
           },
         ],
