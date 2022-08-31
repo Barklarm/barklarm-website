@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbarklarm_website=self.webpackChunkbarklarm_website||[]).push([[1101],{6126:function(e){e.exports=JSON.parse('{"title":"Application","slug":"/category/application","permalink":"/docs/category/application","navigation":{"previous":{"title":"Welcome","permalink":"/docs/intro"},"next":{"title":"Tray Menu","permalink":"/docs/application/menu"}}}')}}]);
