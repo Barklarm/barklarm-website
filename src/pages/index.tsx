@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://github.com/kanekotic/barklarm/releases">
+            to="https://github.com/barklarm/barklarm-app/releases">
             Download
           </Link>
         </div>

@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'kanekotic', // Usually your GitHub org/user name.
+  organizationName: 'barklarm', // Usually your GitHub org/user name.
   projectName: 'barklarm-website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -38,14 +38,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kanekotic/barklarm-website/tree/main/',
+            'https://github.com/barklarm/barklarm-website/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kanekotic/barklarm-website/tree/main/',
+            'https://github.com/barklarm/barklarm-website/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -76,7 +76,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/kanekotic/barklarm',
+            href: 'https://github.com/barklarm',
             label: 'GitHub',
             position: 'right',
           },
@@ -112,7 +112,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/kanekotic/barklarm',
+                href: 'https://github.com/barklarm',
               },
               {
                 label: 'Privacy Policy',
