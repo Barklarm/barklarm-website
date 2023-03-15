@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Barklarm',
   tagline: 'Display the status of your projects build & monitoring natively to your OS',
-  url: 'https://barklarm.com',
+  url: 'https://www.barklarm.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

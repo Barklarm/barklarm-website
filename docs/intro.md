@@ -16,4 +16,4 @@ If you are running production services and want to be able to react as soon as p
 
 ## Ready to get started?
 
-Find out how to define and use your observers in [Quick Start](/docs/quick-start). Or visit the [page](https://www.Barklarm.com/) and [its repo](https://github.com/kanekotic/barklarm) and start exploring.
+Find out how to define and use your observers in [Quick Start](/docs/quick-start). Or visit the [page](https://www.barklarm.com/) and [its repo](https://github.com/kanekotic/barklarm) and start exploring.
