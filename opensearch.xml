@@ -4,8 +4,8 @@
   <ShortName>Barklarm</ShortName>
   <Description>Search Barklarm</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://barklarm.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://barklarm.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://barklarm.com/opensearch.xml" />
-  <moz:SearchForm>https://barklarm.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://www.barklarm.com/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://www.barklarm.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://www.barklarm.com/opensearch.xml" />
+  <moz:SearchForm>https://www.barklarm.com/</moz:SearchForm>
 </OpenSearchDescription>

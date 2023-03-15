@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Barklarm Blog</title>
-        <link>https://barklarm.com/blog</link>
+        <link>https://www.barklarm.com/blog</link>
         <description>Barklarm Blog</description>
         <lastBuildDate>Tue, 11 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[First Alpha Release]]></title>
-            <link>https://barklarm.com/blog/first-alpha-release</link>
+            <link>https://www.barklarm.com/blog/first-alpha-release</link>
             <guid>first-alpha-release</guid>
             <pubDate>Tue, 11 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello welcome everyone to the first blog post and also our first Alpha release.]]></description>
