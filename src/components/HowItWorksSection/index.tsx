@@ -11,8 +11,8 @@ import PowerIcon from '@mui/icons-material/Power';
 import Typography from '@mui/material/Typography';
 import MapIcon from '@mui/icons-material/Map';
 import LaptopIcon from '@mui/icons-material/Laptop';
-import ConnectSvg from '@site/static/img/connect.svg';
-import NetworkSvg from '@site/static/img/network.svg';
+import ConfigureSvg from '@site/static/img/configure.svg';
+import AlertSvg from '@site/static/img/alert.svg';
 import WorkSvg from '@site/static/img/work.svg';
 import { useMediaQuery, useTheme } from '@mui/material';
 
@@ -29,7 +29,7 @@ function CustomizedTimeline() {
           <TimelineConnector sx={{ bgcolor: 'secondary.main' }} />
         </TimelineSeparator>
         <TimelineContent data-aos="fade-left">
-          <ConnectSvg className={styles.svg} />
+          <ConfigureSvg className={styles.svg} />
           <Spacer height={20} />
           <Typography variant="h5" component="span">
             Add your observability systems to Barklam
@@ -45,7 +45,7 @@ function CustomizedTimeline() {
           <TimelineConnector  sx={{ bgcolor: 'secondary.main' }} />
         </TimelineSeparator>
         <TimelineContent data-aos={matches ? "fade-right": "fade-left"}>
-          <NetworkSvg className={styles.svg} />
+          <WorkSvg className={styles.svg} />
           <Spacer height={20} />
           <Typography variant="h5" component="span">
             Work as any other day.
@@ -60,7 +60,7 @@ function CustomizedTimeline() {
           </TimelineDot>
         </TimelineSeparator>
         <TimelineContent data-aos="fade-left">
-          <WorkSvg className={styles.svg} />
+          <AlertSvg className={styles.svg} />
           <Spacer height={20} />
           <Typography variant="h5" component="span">
             We will notify you if anything breaks

@@ -1,6 +1,6 @@
 .Container {
   background-color: var(--ifm-color-primary-dark);
-  color: var(--ifm-color-primary-text);
+  color: var(--ifm-color-primary-text-dark);
   transform: skewY(-2deg);
   padding: 8rem 0;
 }

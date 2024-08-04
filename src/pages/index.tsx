@@ -15,6 +15,7 @@ import clsx from 'clsx';
 import styles from './index.module.css';
 import HowItWorksSection from '../components/HowItWorksSection';
 import Pricing from '../components/Pricing';
+import Spacer from '../components/Spacer';
 
 function TweetsSection() {
   const tweetColumns: TweetItem[][] = [[], [], []];
@@ -68,6 +69,7 @@ function QuotesSection() {
           ))}
         </div>
       </div>
+      <Spacer height={20} />
     </div>
   );
 }
@@ -87,6 +89,9 @@ export default function Home(): JSX.Element {
         <StraightforwardView />
         <HowItWorksSection />
         <TweetsSection />
+        <Spacer height={70} />
+        <Pricing />
+        <Spacer height={70} />
         <QuotesSection />
       </main>
     </Layout>
