@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbarklarm_website=self.webpackChunkbarklarm_website||[]).push([[1713],{3457:function(e){e.exports=JSON.parse('[{"label":"release","permalink":"/blog/tags/release","count":1}]')}}]);
