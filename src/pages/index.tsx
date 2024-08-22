@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageHeader from '@site/src/components/HomepageHeader';
-import Head from '@docusaurus/Head';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import StraightforwardView from '@site/src/components/StraightforwardView';
@@ -16,6 +15,9 @@ import styles from './index.module.css';
 import HowItWorksSection from '../components/HowItWorksSection';
 import Pricing from '../components/Pricing';
 import Spacer from '../components/Spacer';
+import SupportedServices from '../components/SupportedServices';
+
+
 
 function TweetsSection() {
   const tweetColumns: TweetItem[][] = [[], [], []];
@@ -88,6 +90,8 @@ export default function Home(): JSX.Element {
       <main>
         <StraightforwardView />
         <HowItWorksSection />
+        <SupportedServices />
+        <Spacer height={70} />
         <TweetsSection />
         <Spacer height={70} />
         <Pricing />

@@ -5,10 +5,10 @@
  */
 
  :root {
-  --ifm-color-primary: #6c2e85;
-  --ifm-color-primary-dark: #562469;
-  --ifm-color-primary-darker: #4f2161;
-  --ifm-color-primary-darkest: #451e55;
+  --ifm-color-primary: #863ba3;
+  --ifm-color-primary-dark: #863ba3;
+  --ifm-color-primary-darker: #863ba3;
+  --ifm-color-primary-darkest: #863ba3;
   --ifm-color-primary-light: #863ba3;
   --ifm-color-primary-lighter: #9d46c0;
   --ifm-color-primary-lightest: #b14ed8;
