@@ -6,7 +6,7 @@ sidebar_position: 2
 
 This is the place to set up application configurations that can be found in the [configuration section](/docs/configuration).
 
-![Configuration window](./img/configuration_window.jpeg)
+![Configuration window](./img/configuration_window_observers.png)
 
 The sections it contains are:
 
@@ -14,4 +14,4 @@ The sections it contains are:
 
 It can be accessed from the Tray menu through the configuration button
 
-![menu](./img/menu.jpeg)
+![menu](./img/menu.png)
