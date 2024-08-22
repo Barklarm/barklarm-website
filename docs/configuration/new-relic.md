@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 # New Relic
 
-![New Relic](./img/new-relic.jpeg)
+![New Relic](./img/new-relic.png)
 
 The New Relic configuration requires:
 

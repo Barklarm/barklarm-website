@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 # Datadog Monitors
 
-![Datadog](./img/datadog.jpeg)
+![Datadog](./img/datadog.png)
 
 The Datadog configuration requires:
 

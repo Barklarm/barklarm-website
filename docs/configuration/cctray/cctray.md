@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Barklarm support any server that follows [CCtray V1 Specification](https://cctray.org/v1/)
 
-![CCTray](./img/cctray.jpeg) 
+![CCTray](./img/cctray.png) 
 
 The cctray configuration contains:
 - **URL (mandatory)**: url to the ccTray xml file. Currently it requires to be a file from a single project, collections are not yet supported.

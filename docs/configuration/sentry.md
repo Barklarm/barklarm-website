@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Sentry
 
-![Sentry](./img/sentry.jpeg)
+![Sentry](./img/sentry.png)
 
 The Sentry configuration requires:
 - **Organization (Mandatory)**: sentry organization handle.

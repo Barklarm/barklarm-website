@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 # GitHub Actions
 
-![Github](./img/github.jpeg)
+![Github](./img/github.png)
 
 The GitHub configuration requires:
 
