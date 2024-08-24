@@ -16,29 +16,30 @@ export const SupportedServices = () => {
                 <div className={styles.HeaderContainer} data-aos="flip-left" data-aos-duration="1000">
                 <h2 className={styles.Tagline}>We Support</h2>
                 <Spacer height={20} />
-                <Slider
-                    width="300px"
-                    duration={40}
-                    pauseOnHover={true}
-                    blurBorders={false}
-                    blurBoderColor={'#fff'}
-                >
-                    <Slider.Slide>
-                        <img src={datadogUrl} style={{padding:"25px 0px"}}/>
-                    </Slider.Slide>
-                    <Slider.Slide>
-                        <img src={githubActionsgUrl} style={{padding:"25px 0px"}} />
-                    </Slider.Slide>
-                    <Slider.Slide>
-                        <img src={sentryUrl} style={{padding:"25px 0px"}} />
-                    </Slider.Slide>
-                    <Slider.Slide>
-                        <img src={newRelicUrl} style={{padding:"10px"}} />
-                    </Slider.Slide>
-                    <Slider.Slide>
-                        <img src={azureDevopscUrl} style={{padding:"10px"}} />
-                    </Slider.Slide>
-                </Slider>
+                <div className={styles.Slider} >
+                    <Slider
+                        width="250px"
+                        duration={25}
+                        pauseOnHover={true}
+                        blurBorders={false}
+                    >
+                        <Slider.Slide>
+                            <img src={datadogUrl} style={{padding:"25px 0px"}}/>
+                        </Slider.Slide>
+                        <Slider.Slide>
+                            <img src={githubActionsgUrl} style={{padding:"25px 0px"}} />
+                        </Slider.Slide>
+                        <Slider.Slide>
+                            <img src={sentryUrl} style={{padding:"25px 0px"}} />
+                        </Slider.Slide>
+                        <Slider.Slide>
+                            <img src={newRelicUrl} style={{padding:"10px"}} />
+                        </Slider.Slide>
+                        <Slider.Slide>
+                            <img src={azureDevopscUrl} style={{padding:"10px"}} />
+                        </Slider.Slide>
+                    </Slider>
+                </div>
                 </div>
             </div>
         </div>

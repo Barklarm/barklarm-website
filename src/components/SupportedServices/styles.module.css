@@ -15,6 +15,10 @@
   transform: skewY(2deg);
 }
 
+.Slider {
+  max-width: var(--ifm-container-width-xl);
+}
+
 .HeaderContainer {
   display: flex;
   flex: 1;
