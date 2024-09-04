@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './styles.module.css';
 import Spacer from '@site/src/components/Spacer';
+import IntroVideo from '@site/static/video/intro.webm';
 
 const StraightforwardView: React.FC = () => {
   return (
@@ -13,6 +14,7 @@ const StraightforwardView: React.FC = () => {
           <p className={styles.Description}>
             Barklarm Centralizes all your obserbability alarms, including build, monitoring, logging, etc. So you dont need to be looking at many pages at the time. Free & Open Soruce
           </p>
+          <video controls src={IntroVideo} preload="metadata"/>
         </div>
       </div>
     </div>
