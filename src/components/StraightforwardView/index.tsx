@@ -12,7 +12,7 @@ const StraightforwardView: React.FC = () => {
           <h1 className={styles.Title}>Reduce Cognitive Load</h1>
           <Spacer height={20} />
           <p className={styles.Description}>
-            Barklarm Centralizes all your obserbability alarms, including build, monitoring, logging, etc. So you dont need to be looking at many pages at the time. Free & Open Soruce
+            Barklarm Centralizes all your observability alarms, including build, monitoring, logging, etc. So you dont need to be looking at many pages at the time. Free & Open Soruce
           </p>
           <video controls src={IntroVideo} preload="metadata"/>
         </div>
